@@ -1,7 +1,8 @@
 # M-Regression
-Multiple Linear Regression with Python
+Multiple Linear Regression with Python & R
 
-#### Python & R تحلیل رگرسیون خطی چندگانه با
+#### تحلیل رگرسیون خطی چندگانه با
+#### R & Python
 
 #### در این تحلیل از روش های استنباطی و بصری در کنارهم استفاده شده است.
 
