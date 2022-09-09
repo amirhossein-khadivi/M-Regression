@@ -1,33 +1,7 @@
-Amirhossein Khadivi
-4/3/2022
-
-<html>
-
-<style>
-<p>   {align-text: center; font-family: "XB Niloofar"}
-</style>
-
-<body>
-
-<p style="text-align:center">
-
-هوالعالم
-
-</p>
-
-</body>
-
-</html>
-
 <html>
 
 <body>
 
-<style>
-h2    {background-color: #E5CCFF ; text-align: center ; color: #990000}
-h3    {background-color: #E5CCFF ; text-align: center ; color : #660000 ; font-size:135%}
-p     {direction: rtl; font-family: "XB Niloofar"}
-</style>
 
 <h2 style={font-family: "XB Niloofar">
 Multiple Linear Regression
