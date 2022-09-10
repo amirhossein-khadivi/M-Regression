@@ -1,5 +1,4 @@
 # Multiple Linear Regression
-# Author : Amirhossein Khadivi
 
 import pandas as pd
 import numpy as np
