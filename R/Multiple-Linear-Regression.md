@@ -7,17 +7,6 @@
 Multiple Linear Regression
 </h2>
 
-<h3 style={font-family: "XB Niloofar">
-<br>
-Author : Amirhossein Khadivi
-<br> <br>
-<a href="https://linkedin.com/in/amirhossein-khadivi">Linkedin</a>
-<br><br>
-<a href="https://github.com/amirhossein-khadivi">Github</a>
-<br>
-<br>
-</h3>
-
 <p>
 
 قبل از شروع پردازش و مدلسازی داده ها تعدادی از کتابخانه های مورد نیاز را
